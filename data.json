@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern",
+    "description": "I would like to learn singleton in JS language, it's important for my work",
+    "link": "https://link.com",
+    "priority": 3,
+    "timeToFinish": 120,
+    "status": "inactive"
+  },
+  {
+    "id": "2",
+    "title": "Resource 2",
+    "description": "Resource 2 Desc",
+    "link": "https://link.com",
+    "priority": 2,
+    "timeToFinish": 60,
+    "status": "inactive"
+  },
+  {
+    "id": "3",
+    "title": "Resource 3",
+    "description": "Resource 3 Desc",
+    "link": "https://link.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "status": "inactive"
+  },
+  {
+    "title": "asdsdsd",
+    "description": "sdsdadas",
+    "link": "sdadss",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createAt": "2022-05-26T21:49:18.533Z",
+    "status": "inactive",
+    "id": "1653601758533"
+  },
+  {
+    "title": "xd",
+    "description": "xd",
+    "link": "xd",
+    "priority": "1",
+    "timeToFinish": 60,
+    "createAt": "2022-05-26T22:14:13.106Z",
+    "status": "inactive",
+    "id": "1653603253106"
+  }
+]
